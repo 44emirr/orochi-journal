@@ -1,0 +1,5 @@
+OrochiJournal.html
+vendor/*.old.*
+*.log
+.DS_Store
+Thumbs.db
